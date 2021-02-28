@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           I am a ninja developper...just follow mee!!
+          Like Eminem said on the I Am Not Afraid Song...
         </p>
         <a
           className="App-link"
